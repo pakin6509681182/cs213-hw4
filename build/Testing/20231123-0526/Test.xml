@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20231123-0526-Experimental"
+	Name="LAPTOP-HPOD0L9C"
+	Generator="ctest-3.28.0-rc5"
+	CompilerName="C:/Program Files/CodeBlocks/MinGW/bin/g++.exe"
+	CompilerVersion="8.1.0"
+	OSName="Windows"
+	Hostname="LAPTOP-HPOD0L9C"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22631)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="0"
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="31426"
+	TotalPhysicalMemory="15713"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1896"
+	>
+	<Testing>
+		<StartDateTime>Nov 23 12:27 SE Asia Standard Time</StartDateTime>
+		<StartTestTime>1700717228</StartTestTime>
+		<TestList/>
+		<EndDateTime>Nov 23 12:27 SE Asia Standard Time</EndDateTime>
+		<EndTestTime>1700717228</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
