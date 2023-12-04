@@ -1,9 +1,9 @@
 [
 {
   "directory": "C:/Users/the1n/Downloads/CS 2023/CS213/HW4/cs213-hw4/build",
-  "command": "C:\\PROGRA~1\\CODEBL~1\\MinGW\\bin\\G__~1.EXE   -g -o CMakeFiles\\hw4.dir\\main.cpp.obj -c \"C:\\Users\\the1n\\Downloads\\CS 2023\\CS213\\HW4\\cs213-hw4\\main.cpp\"",
-  "file": "C:/Users/the1n/Downloads/CS 2023/CS213/HW4/cs213-hw4/main.cpp",
-  "output": "CMakeFiles/hw4.dir/main.cpp.obj"
+  "command": "C:\\PROGRA~1\\CODEBL~1\\MinGW\\bin\\G__~1.EXE   -g -o CMakeFiles\\hw4.dir\\6509681182.cpp.obj -c \"C:\\Users\\the1n\\Downloads\\CS 2023\\CS213\\HW4\\cs213-hw4\\6509681182.cpp\"",
+  "file": "C:/Users/the1n/Downloads/CS 2023/CS213/HW4/cs213-hw4/6509681182.cpp",
+  "output": "CMakeFiles/hw4.dir/6509681182.cpp.obj"
 },
 {
   "directory": "C:/Users/the1n/Downloads/CS 2023/CS213/HW4/cs213-hw4/build",
